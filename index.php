@@ -7,4 +7,6 @@
     const Cedula = 12345678;
     echo "Mi nombre es $nombre $apellido y tengo $edad años, mido $estatura mts y mi genero es $genero";
     
+
+    
 ?>
